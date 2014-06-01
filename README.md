@@ -1,4 +1,3 @@
-nodeschool-presentation
-=======================
+# Node School Presentation
 
-Presentation for nodeschool event
+Landing page to pop up for nodeschool
